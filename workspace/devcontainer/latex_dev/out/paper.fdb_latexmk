@@ -1,0 +1,14 @@
+# Fdb version 3
+["pdflatex"] 1682601988 "paper.tex" "out/paper.pdf" "paper" 1682601989
+  "/etc/texmf/web2c/texmf.cnf" 1555363701 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/article.cls" 1480098821 19821 310da678527a7dfe2a02c88af38079b7 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo" 1480098821 8292 e897c12e1e886ce77fe26afc5d470886 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1488610416 31340 0f53f8665296bf8fe6c697f9505e31d8 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1488610416 31340 0f53f8665296bf8fe6c697f9505e31d8 ""
+  "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1555364213 3559716 dc27d4fd59360367ca35c7fa402e97d8 ""
+  "out/paper.aux" 1682601989 8 a94a2480d3289e625eea47cd1b285758 ""
+  "paper.tex" 1682601968 118 dad2f9b92b0f06f4f2a2e1f24c5c4527 ""
+  (generated)
+  "out/paper.log"
+  "out/paper.pdf"
+  "out/paper.aux"
